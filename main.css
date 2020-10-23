@@ -1,0 +1,72 @@
+ *{
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 25px; 
+}
+
+h1 {
+    font-size: 50pxx;
+    font-family:'Raleway', sans-serif;
+}
+
+.peachBackground {
+    background-color: peachpuff;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap");
+
+
+* {
+    box-sizing: border-box;
+}
+.box {
+    color:white;
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding:15px;
+  
+}
+
+.containertwo{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap; 
+}
+.boxtwo {
+    padding: 15px;
+    /* width: 33.333% */
+}
+  
+  .box1 { background: #ff7f50;}
+  .box2 { background:#ffdab9;}
+  .box3 { background:#ffe4b5;}
+  .box4 { background:#ffdab9;}
+  .box5 { background:#ff7f50;}
+
+.container {
+    display: flex;
+}
+
+.center {
+    text-align: center;
+}
+.large {
+    font-size: 50px;
+}
+
+img {
+    width: 50%;
+}
+
+.text {
+    font-family: 'Raleway', sans-serif;
+}
+
+.right {
+    text-align: end;
+}
+
+.pics {
+
+}
