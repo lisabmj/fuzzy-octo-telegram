@@ -1,7 +1,7 @@
  *{
     box-sizing: border-box;
     background-color: rgb(255, 255, 255);
-    padding: 25px; 
+    padding: 20px; 
 }
 
 h1 {
@@ -28,15 +28,7 @@ h1 {
   
 }
 
-.containertwo{
-    display:flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap; 
-}
-.boxtwo {
-    padding: 15px;
-    /* width: 33.333% */
-}
+
   
   .box1 { background: #ff7f50;}
   .box2 { background:#ffdab9;}
@@ -63,10 +55,3 @@ img {
     font-family: 'Raleway', sans-serif;
 }
 
-.right {
-    text-align: end;
-}
-
-.pics {
-
-}
